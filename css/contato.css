@@ -1,0 +1,74 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    width: 150px;
+    right: 150px;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+.whatsapp img{
+    text-align: center;
+    margin-right: 500px;
+    max-width: 50px;
+    vertical-align: -100px;
+    margin-left: 700px;
+    color: white;
+}
+p{
+    color: white;
+    margin-left: 690px;
+    text-align: middle;
+}
+#wp{
+    color: white;
+    margin-left: 670px;
+    text-align: middle;
+}
+#ld{
+    color: white;
+    margin-left: 698px;
+    text-align: middle;
+}
+#gh{
+    color: white;
+    margin-left: 700px;
+    text-align: middle;
+}
+h1{
+    color: red;
+}
+.facebook img{
+    text-align: center;
+    margin-right: 500px;
+    max-width: 50px;
+    vertical-align: -100px;
+    margin-left: 700px;
+}
+.instagram img{
+    text-align: center;
+    margin-right: 500px;
+    max-width: 50px;
+    vertical-align: -100px;
+    margin-left: 700px;
+}
+.linkedin img{
+    text-align: center;
+    margin-right: 500px;
+    max-width: 50px;
+    vertical-align: -100px;
+    margin-left: 700px;
+}
+.github img{
+    text-align: center;
+    margin-right: 500px;
+    max-width: 50px;
+    vertical-align: -100px;
+    margin-left: 700px;
+}
+a{
+    text-decoration: none;
+}

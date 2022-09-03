@@ -1,0 +1,47 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    width: 150px;
+    right: 150px;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+
+h2{
+    margin-left: 600px;
+    margin-top: 50px;
+    color: red;
+}
+
+.titulo{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: red;
+}
+
+h3{
+    padding-left: 530px;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    color: rgb(220, 102, 102);
+}
+
+.quem{
+    padding-right: 470px;
+    padding-top: 00px;
+    padding-bottom: 40px;
+    color: rgb(220, 102, 102);
+}
+
+h4{
+    padding-left: 400px; 
+}
+
+.desenvolvimento{
+
+    padding-right: 400px;
+}
